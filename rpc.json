@@ -1,0 +1,12 @@
+{
+  "name": "RPCs for all x-swap-protocol products",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "rpc": {
+    "50": "https://erpc.xinfin.network",
+    "51": "https://erpc.apothem.network"
+  }
+}
