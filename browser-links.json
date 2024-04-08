@@ -1,0 +1,40 @@
+{
+  "name": "Valid RPCs",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "links":[
+    {
+      "title": "XSwap DEX",
+      "url": "https://app.xspswap.finance",
+      "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/dex.png"
+    },
+    {
+      "title": "Launchpad",
+      "url": "https://app.xspswap.finance",
+      "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/launchpad.png"
+    },
+    {
+      "title": "Farm V2",
+      "url": "https://xdc.farm",
+      "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/farm.png"
+    },
+    {
+      "title": "XSwap DEX V2",
+      "url": "https://app.xspswap.finance",
+      "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/dex.png"
+    },
+    {
+      "title": "XSP Staking",
+      "url": "https://v2.xspswap.finance/xsp-staking",
+      "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/staking.png"
+    },
+    {
+      "title": "XSwap Governance",
+      "url": "https://gov.xspswap.finance/",
+      "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/governance.png"
+    }
+  ]
+}
