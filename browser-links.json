@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "links":[
     {
@@ -13,7 +13,7 @@
     },
     {
       "title": "Launchpad",
-      "url": "https://app.xspswap.finance",
+      "url": "https://xdc.sale",
       "logo": "https://raw.githubusercontent.com/x-swap-protocol/configs/master/assets/browser/launchpad.png"
     },
     {
