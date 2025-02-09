@@ -1,12 +1,12 @@
 {
   "name": "Valid RPCs",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
   "rpc": {
-    "50": "https://rpc.ankr.com/xdc/",
+    "50": "https://rpc.xspswap.finance/",
     "51": "https://rpc.ankr.com/xdc_testnet/"
   }
 }
